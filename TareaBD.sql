@@ -1,7 +1,4 @@
---- TAREA BASE DE DATOS SCHOOL ---
 
---- Asignar la Base de Datos a usar ---
-use TareaBD
 
 --- Creamos la base de datos
 create database TareaBD
